@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-6D95D56B474A9271031BB5BE1003BCD0_0000</CrashGUID>
+<ProcessId>8204</ProcessId>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<IsEnsure>false</IsEnsure>
+<IsAssert>true</IsAssert>
+<CrashType>Assert</CrashType>
+<SecondsSinceStart>10805</SecondsSinceStart>
+<GameName>UE4-ExPaques2017_Jeanroy</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.13.2-3172292+++UE4+Release-4.13</EngineVersion>
+<CommandLine>&quot;D:/Cours/C_C++/Unreal Engine/Nouveau dossier/ExPaques2017_Jeanroy/ExPaques2017_Jeanroy.uproject&quot;-EpicPortal </CommandLine>
+<LanguageLCID>9</LanguageLCID>
+<AppDefaultLocale>fr_FR</AppDefaultLocale>
+<IsUE4Release>true</IsUE4Release>
+<UserName></UserName>
+<BaseDir>D:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/</BaseDir>
+<RootDir>D:/Program Files (x86)/Epic Games/4.13/</RootDir>
+<MachineId>AF0C06C243441F15982FE7847A97A36E</MachineId>
+<EpicAccountId>bc27f30405464b9ead8c1caa4e8275e1</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<ErrorMessage>Fatal error: [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.cpp] [Line: 213] &nl;TBasePassVSFNoLightMapPolicy shader uniform expression set mismatch for material TileMapUI/WorldGridMaterial.&nl;Shader compilation info:                WorldGridMaterial&nl;Material render proxy compilation info: Compiling WorldGridMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_Unlit, BlendMode=BLEND_Opaque, SpecialEngine=1, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}&nl;Shader uniform expression set:   5 vectors, 0 scalars, 0 2D textures, 0 cube textures, 0 scalars/frame, 0 vectors/frame, shader map 000002A87E7CFA00&nl;Material uniform expression set: 5 vectors, 0 scalars, 0 2D textures, 0 cube textures, 0 scalars/frame, 0 vectors/frame, shader map 000002A83FAEB400&nl;&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 530</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>8460812288</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>3862827008</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140734726098944</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>667721728</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>1132969984</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1851375616</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>1984450560</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+</FGenericCrashContext>

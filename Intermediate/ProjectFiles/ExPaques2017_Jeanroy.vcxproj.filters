@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ExPaques2017_Jeanroy.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{033A7E32-CC72-467C-8F37-0D80F24733DC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ExPaques2017_Jeanroy.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ExPaques2017_JeanroyEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{ECD1347F-2ADC-4FC4-961D-94A2D34EDBB4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ExPaques2017_Jeanroy">
+			<UniqueIdentifier>{EA9560FC-205F-41B7-BE38-504E72F6242E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ExPaques2017_Jeanroy\ExPaques2017_Jeanroy.Build.cs">
+			<Filter>Source\ExPaques2017_Jeanroy</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ExPaques2017_Jeanroy\ExPaques2017_Jeanroy.cpp">
+			<Filter>Source\ExPaques2017_Jeanroy</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ExPaques2017_Jeanroy\ExPaques2017_Jeanroy.h">
+			<Filter>Source\ExPaques2017_Jeanroy</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ExPaques2017_Jeanroy\ExPaques2017_JeanroyCharacter.cpp">
+			<Filter>Source\ExPaques2017_Jeanroy</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ExPaques2017_Jeanroy\ExPaques2017_JeanroyCharacter.h">
+			<Filter>Source\ExPaques2017_Jeanroy</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ExPaques2017_Jeanroy\ExPaques2017_JeanroyGameMode.cpp">
+			<Filter>Source\ExPaques2017_Jeanroy</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ExPaques2017_Jeanroy\ExPaques2017_JeanroyGameMode.h">
+			<Filter>Source\ExPaques2017_Jeanroy</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
